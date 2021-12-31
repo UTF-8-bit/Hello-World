@@ -1,0 +1,9 @@
+There are 6 types of data 
+Strings, Numbers, Booleans, Null, Undefined, Object, and Symbol.   
+
+Strings are text in qoutation marks "" like sentences and paragraphs.
+Booleans contain two values, True or false.
+Null is a value we have to store in, but it is simply non-existent.
+Undefined means we don't have the variable or the value, it doesn't exist.
+Symbols are rarely used for data types.
+Object is the most important data-type and forms the building blocks for Javascript.
